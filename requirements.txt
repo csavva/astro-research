@@ -1,0 +1,7 @@
+lightkurve
+astropy
+astroquery
+matplotlib
+scipy
+jupyterlab
+ipykernel
