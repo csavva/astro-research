@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+mast_data/
+mast_dl/
+.DS_Store
